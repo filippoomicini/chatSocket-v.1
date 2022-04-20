@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yhB0Cz2k6UcNfCofXvkDn8zd1EdF/Z3NAItpU5NxcAr4sHeYOYihDUvmDEQS0jM3O28MSrjQzTTfUJSxTa34vA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\filippo.omicini.ITT\\Desktop\\chatSocket\\chatSocket\\chatSocket.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\filippo.omicini.ITT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
